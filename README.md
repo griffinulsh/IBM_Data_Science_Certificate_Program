@@ -40,7 +40,7 @@ Here's an overview of the courses included in this repository:
 
 -Tasks include data extraction, web scraping, data visualization, and creating dashboards. We use libraries like Pandas and Beautiful Soup within Jupyter Notebook.
 
--By the end of this project, we had notable additions to our job portfolio, demonstrating our Python capabilities.
+-By the end of this project we had notable additions to our job portfolio, demonstrating our Python capabilities.
 
 ## How to Use
 
