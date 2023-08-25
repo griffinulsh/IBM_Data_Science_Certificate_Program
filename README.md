@@ -42,6 +42,12 @@ Here's an overview of the courses included in this repository:
 
 -By the end of this project we had notable additions to our job portfolio, demonstrating our Python capabilities.
 
+### Course 6: Databases & SQL for Data Science with Python
+
+-This course is all about mastering SQL. From basic SELECT statements to advanced JOIN concepts, we covered the gamut of SQL techniques.
+
+-We learned to write SQL statements, filter data, understand DML and DDL, manipulate tables, and use functions. Practical labs and projects helped us build queries, work with Cloud databases, and employ data science tools. We rounded off our journey by analyzing real-world datasets, demonstrating our SQL proficiency.
+
 ## How to Use
 
 - Clone this repository to your local machine using the `git clone` command.
