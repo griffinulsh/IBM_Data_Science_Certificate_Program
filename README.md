@@ -2,6 +2,8 @@
 
 Welcome to my GitHub repository showcasing the projects I've completed as part of the IBM Data Science Professional Certificate program. This repository is organized by course, with each course folder containing Jupyter Notebook projects related to the course's content.
 
+Please note that not every course produced Jupyter Notebooks for uploading. I've still included a description of each course below to outline topics I learned in the course.
+
 ## Courses
 
 Here's an overview of the courses included in this repository:
