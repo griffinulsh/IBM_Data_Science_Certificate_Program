@@ -10,21 +10,17 @@ Here's an overview of the courses included in this repository:
 
 ### Course 1: What is Data Science?
 
--In this introductory course, we started with the fundamentals of Data Science. We uncovered the historical roots of data analysis, from ancient civilizations predicting natural events using data insights, to the modern era of pattern recognition and predictive analytics.
-
--We covered how Data Science shapes decision-making today, using techniques like Machine Learning, Deep Learning, and Neural Networks. We had the opportunity to hear from experienced data scientists who shared practical insights and experiences in the field.
-
--By diving into this foundational course, we gained an understanding of the essence of Data Science and its real-world applications.
+-In this introductory course, we started with the fundamentals of Data Science. We covered how Data Science shapes decision-making today, using techniques like Machine Learning, Deep Learning, and Neural Networks. We had the opportunity to hear from experienced data scientists who shared practical insights and experiences in the field.
 
 ### Course 2: Tools for Data Science
 
--In the second course, we got hands-on with the essential tools that drive success in Data Science. We explored a range of tools, including Jupyter Notebooks, Git, GitHub, and more.
+-In the second course, we explored a range of tools, including Jupyter Notebooks, Git, GitHub, and more.
 
--Throughout the course, we learned how to work with these tools, understand their features, and use them effectively. Our journey included practical projects and culminated in creating and sharing our own Jupyter Notebook project.
+-Throughout the course, we learned how to work with these tools, understand their features, and use them effectively.
 
 ### Course 3: Data Science Methedology
 
--In this course, we focused on honing our skills to think and work like successful Data Scientists. We learned about various methodologies to tackle any data challenge with confidence.
+-In this course, we focused on using skills to think and work like successful Data Scientists. We learned about various methodologies to tackle any data challenge with confidence.
 
 -Two proven approaches were covered: Foundational Data Science Methodology and CRISP-DM's six-stage framework. These techniques, followed by experienced data scientists, provide a structured way to solve data problems effectively.
 
