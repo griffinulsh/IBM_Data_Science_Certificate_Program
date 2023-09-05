@@ -22,7 +22,7 @@ Here's an overview of the courses included in this repository:
 
 -Throughout the course, we learned how to work with these tools, understand their features, and use them effectively. Our journey included practical projects and culminated in creating and sharing our own Jupyter Notebook project.
 
-### Course 3: Tools for Data Science
+### Course 3: Data Science Methedology
 
 -In this course, we focused on honing our skills to think and work like successful Data Scientists. We learned about various methodologies to tackle any data challenge with confidence.
 
