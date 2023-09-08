@@ -46,6 +46,16 @@ Here's an overview of the courses included in this repository:
 
 -We learned to write SQL statements, filter data, understand DML and DDL, manipulate tables, and use functions. Practical labs and projects helped us build queries, work with Cloud databases, and employ data science tools. We rounded off our journey by analyzing real-world datasets, demonstrating our SQL proficiency.
 
+### Course 7: Data Analysis with Python
+
+-In this course, we covered essential data analysis techniques using Python, exploring topics like data collection, cleaning, modeling, and visualization. 
+
+-Data Analysis Essentials: Extensively explored fundamental data analysis techniques using Python.
+
+-Comprehensive Topics: Covered data collection, cleaning, modeling, and visualization.
+
+-Practical Learning: Engaged in hands-on labs and projects, working with Python libraries like Pandas and scikit-learn to analyze real-world datasets.
+
 ## How to Use
 
 - Clone this repository to your local machine using the `git clone` command.
