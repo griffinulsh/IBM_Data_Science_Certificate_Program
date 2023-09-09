@@ -56,7 +56,7 @@ Here's an overview of the courses included in this repository:
 
 -Practical Learning: Engaged in hands-on labs and projects, working with Python libraries like Pandas and scikit-learn to analyze real-world datasets.
 
-## How to Use
+## How to Use:
 
 - Clone this repository to your local machine using the `git clone` command.
 - Navigate into the relevant course folder to access the Jupyter Notebook projects.
