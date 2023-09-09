@@ -8,7 +8,7 @@ Please note that not every course produced Jupyter Notebooks for uploading. I've
 
 Here's an overview of the courses included in this repository:
 
-### Course 1: What is Data Science?
+### Course 1: What is Data Science? 
 
 -In this introductory course, we started with the fundamentals of Data Science. We covered how Data Science shapes decision-making today, using techniques like Machine Learning, Deep Learning, and Neural Networks. We had the opportunity to hear from experienced data scientists who shared practical insights and experiences in the field.
 
