@@ -4,7 +4,7 @@ Welcome to my GitHub repository showcasing the projects I've completed as part o
 
 Please note that not every course produced Jupyter Notebooks for uploading. I've still included a description of each course below to outline topics I learned in the course.
 
-## Courses
+## Courses 
 
 Here's an overview of the courses included in this repository:
 
