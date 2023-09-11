@@ -12,7 +12,7 @@ Here's an overview of the courses included in this repository:
 
 -In this introductory course, we started with the fundamentals of Data Science. We covered how Data Science shapes decision-making today, using techniques like Machine Learning, Deep Learning, and Neural Networks. We had the opportunity to hear from experienced data scientists who shared practical insights and experiences in the field.
 
-### Course 2: Tools for Data Science
+### Course 2: Tools for Data Science 
 
 -In the second course, we explored a range of tools, including Jupyter Notebooks, Git, GitHub, and more.
 
