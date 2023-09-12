@@ -32,7 +32,7 @@ Here's an overview of the courses included in this repository:
 
 -We worked in hands-on labs using Jupyter Notebooks to create basic programs, manage data, and automate tasks with Python.
 
-### Course 5: Python Project Project for Data Science
+### Course 5: Python Project Project for Data Science 
 
 -This mini-course focuses on practical application of foundational Python skills in data work. We assume roles as Data Scientists or Data Analysts and engage in a real-world project using actual data and scenarios.
 
