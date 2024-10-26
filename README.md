@@ -4,15 +4,15 @@ Welcome to my GitHub repository showcasing the projects I've completed as part o
 
 Please note that not every course produced Jupyter Notebooks for uploading. I've still included a description of each course below to outline topics I learned in the course.
 
-## Courses
+## Courses 
 
 Here's an overview of the courses included in this repository:
 
-### Course 1: What is Data Science?
+### Course 1: What is Data Science? 
 
 -In this introductory course, we started with the fundamentals of Data Science. We covered how Data Science shapes decision-making today, using techniques like Machine Learning, Deep Learning, and Neural Networks. We had the opportunity to hear from experienced data scientists who shared practical insights and experiences in the field.
 
-### Course 2: Tools for Data Science
+### Course 2: Tools for Data Science 
 
 -In the second course, we explored a range of tools, including Jupyter Notebooks, Git, GitHub, and more.
 
@@ -32,7 +32,7 @@ Here's an overview of the courses included in this repository:
 
 -We worked in hands-on labs using Jupyter Notebooks to create basic programs, manage data, and automate tasks with Python.
 
-### Course 5: Python Project Project for Data Science
+### Course 5: Python Project Project for Data Science 
 
 -This mini-course focuses on practical application of foundational Python skills in data work. We assume roles as Data Scientists or Data Analysts and engage in a real-world project using actual data and scenarios.
 
@@ -46,7 +46,17 @@ Here's an overview of the courses included in this repository:
 
 -We learned to write SQL statements, filter data, understand DML and DDL, manipulate tables, and use functions. Practical labs and projects helped us build queries, work with Cloud databases, and employ data science tools. We rounded off our journey by analyzing real-world datasets, demonstrating our SQL proficiency.
 
-## How to Use
+### Course 7: Data Analysis with Python
+
+-In this course, we covered essential data analysis techniques using Python, exploring topics like data collection, cleaning, modeling, and visualization. 
+
+-Data Analysis Essentials: Extensively explored fundamental data analysis techniques using Python.
+
+-Comprehensive Topics: Covered data collection, cleaning, modeling, and visualization.
+
+-Practical Learning: Engaged in hands-on labs and projects, working with Python libraries like Pandas and scikit-learn to analyze real-world datasets.
+
+## How to Use:
 
 - Clone this repository to your local machine using the `git clone` command.
 - Navigate into the relevant course folder to access the Jupyter Notebook projects.
