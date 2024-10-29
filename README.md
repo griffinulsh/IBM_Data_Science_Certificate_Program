@@ -56,6 +56,17 @@ Here's an overview of the courses included in this repository:
 
 -Practical Learning: Engaged in hands-on labs and projects, working with Python libraries like Pandas and scikit-learn to analyze real-world datasets.
 
+### Course 8: Data Visualization with Python
+
+- In this course, we implemented data visualization techniques to create compelling visual stories using Python.
+
+- We created various types of charts and plots, such as line, area, histogram, bar, pie, box, scatter, and bubble charts.
+
+- We also explored advanced visualizations, including waffle charts, word clouds, regression plots, and interactive maps with markers and choropleth maps.
+
+- We used libraries like Matplotlib, Seaborn, and Folium to gain hands-on experience with data visualization in Python.
+
+
 ## How to Use:
 
 - Clone this repository to your local machine using the `git clone` command.
