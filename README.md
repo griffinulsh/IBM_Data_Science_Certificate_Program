@@ -65,6 +65,17 @@ Here's an overview of the courses included in this repository:
 - We also explored advanced visualizations, including waffle charts, word clouds, regression plots, and interactive maps with markers and choropleth maps.
 
 - We used libraries like Matplotlib, Seaborn, and Folium to gain hands-on experience with data visualization in Python.
+  
+### Course 9: Machine Learning with Python
+
+- In this course, we described various types of Machine Learning algorithms and when to use them.
+
+- We compared and contrasted linear classification methods, including multiclass prediction, support vector machines, and logistic regression.
+
+- We wrote Python code to implement various classification techniques, including K-Nearest Neighbors (KNN), decision trees, and regression trees.
+
+- We evaluated the results from simple linear, non-linear, and multiple regression on a dataset using evaluation metrics.
+
 
 
 ## How to Use:
